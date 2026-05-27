@@ -1,12 +1,12 @@
-## Hi, I'm kuladeep 👋
+## Hi 👋, I'm Kuladeep Vuppu 
 
-## About Me
-- CSE Student
-- Learning C++,DSA
+## CSE Student | C++ & Backend Enthusiast | Linux Learner
+
+- Currently learning Advanced C++, DSA, Backend Development
+- Interested in Systems, APIs, and Software Engineering
 - Linux enthusiast
-- Backend Development using api's integrating with database.
-- Frontend Development with react, Bootstrap.
-
+- Exploring backend development with FastAPI
+- Improving problem solving and development skills every day
 
 ## Tech Stack
 
@@ -15,6 +15,11 @@
 - Python
 - JavaScript
 
+### Frameworks & libraries
+- Fastapi
+- React
+- numpy,pandas
+
 ### Tools & Technologies
 
 - Git & Github
@@ -22,7 +27,7 @@
 - VS Code
 - FastAPI
 - React
-- sql
+- mysql
 
 
 
