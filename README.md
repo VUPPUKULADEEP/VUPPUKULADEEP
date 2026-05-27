@@ -2,8 +2,10 @@
 
 ## About Me
 - CSE Student
-- Learning C++,DSA, Backend Development, Api's
+- Learning C++,DSA
 - Linux enthusiast
+- Backend Development using api's integrating with database.
+- Frontend Development wiht react, Bootstrap.
 
 
 ## Tech Stack
@@ -20,6 +22,7 @@
 - VS Code
 - FastAPI
 - React
+- sql
 
 
 
