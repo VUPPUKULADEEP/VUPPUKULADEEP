@@ -5,7 +5,7 @@
 - Learning C++,DSA
 - Linux enthusiast
 - Backend Development using api's integrating with database.
-- Frontend Development wiht react, Bootstrap.
+- Frontend Development with react, Bootstrap.
 
 
 ## Tech Stack
