@@ -1,6 +1,6 @@
-<h1><b> Hi 👋, I'm Kuladeep Vuppu </b></h1>h1>
+<h1><b> Hi 👋, I'm Kuladeep Vuppu </b></h1>
 
-<h4><b><i> CSE Student | C++ & Backend Enthusiast | Linux Learner </i></b></h4>h4>
+<h4><b><i> CSE Student | C++ & Backend Enthusiast | Linux Learner </i></b></h4>
 
 - Currently learning Advanced C++, DSA, Backend Development
 - Interested in Systems, APIs, and Software Engineering
