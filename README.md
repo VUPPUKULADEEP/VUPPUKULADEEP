@@ -5,7 +5,6 @@
 - Learning C++,DSA, Backend Development, Api's
 - Linux enthusiast
 
----
 
 ## Tech Stack
 
@@ -22,7 +21,7 @@
 - FastAPI
 - React
 
----
+
 
 
 
