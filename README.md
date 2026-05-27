@@ -6,6 +6,7 @@
 - Interested in Systems, APIs, and Software Engineering
 - Linux enthusiast
 - Exploring backend development with FastAPI
+- Intrested frontend development using React
 - Improving problem solving and development skills every day
 
 ## Tech Stack
